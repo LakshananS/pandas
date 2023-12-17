@@ -1,0 +1,3 @@
+Are you using the latest version of PyCharm? If so, locate "Python Package" and install pandas directly within PyCharm. 
+Alternatively, you can use the following code to install pandas into your Python project.
+"pip install pandas"
